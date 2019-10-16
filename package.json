@@ -1,0 +1,24 @@
+```
+{
+    "name": "learn-koa2-tutorial",
+    "version": "1.0.0",
+    "description": "学习koa2",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NanCylia/learn-koa2.git"
+    },
+    "keywords": [
+        "learn",
+        "koa2"
+    ],
+    "author": "NanCylia",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NanCylia/learn-koa2/issues"
+    },
+    "homepage": "https://github.com/NanCylia/learn-koa2#readme"
+}
